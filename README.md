@@ -5,12 +5,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pedro+Campodonico..&hearts;++;Front-End+Developer,;Systems+Engineer+Student,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<br>
-
 ## <picture><img src = "https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/about_me.gif?raw=true" width = 50px></picture> **About me**
 
  <!-- <picture> <img align="right" src="" width = 250px></picture> -->  
-<br>
 
 - Front-end web development (HTML, CSS, JavaScript)
 - Back-end web development (Java, Python)
@@ -20,12 +17,9 @@
 - Team work and collaboration
 - Personal website [link](https://pedrocampodonico.github.io/DesarrolladorWeb-Portfolio/)
 
-<br><br>
-
 <img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/line.gif?raw=true"><br><br>
 
 ## <img src="https://raw.githubusercontent.com/PedroCampodonico/PedroCampodonico/main/Readme-github/giphy.webp" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -34,8 +28,6 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
-<br>   
     
 - **Front-End Development**:
 
@@ -62,16 +54,9 @@
 
 </p>
 
-<br>
-<br>
-
 -----
 
-<br>
-
-
 ## <img src="https://raw.githubusercontent.com/PedroCampodonico/PedroCampodonico/main/Readme-github/graph.webp" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
 
@@ -82,14 +67,7 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
 -----
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/handshake.gif?raw=true" width ="80">
 <br>
@@ -114,22 +92,12 @@
 </ul>
 </div>
 
-<br>
 <img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/line.gif?raw=true">
-<br>
-<br>
-<br>
 
 <div align='center'>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
 ---
-
-<br>
 
 Credit: [Pedro Campodonico](https://github.com/PedroCampodonico)
