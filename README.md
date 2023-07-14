@@ -17,7 +17,7 @@
 - Team work and collaboration
 - Personal website [link](https://pedrocampodonico.github.io/DesarrolladorWeb-Portfolio/)
 
-<img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/line.gif?raw=true"><br><br>
+<img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/line.gif?raw=true"><br>
 
 ## <img src="https://raw.githubusercontent.com/PedroCampodonico/PedroCampodonico/main/Readme-github/giphy.webp" width ="25"><b> Skills</b>
 
@@ -28,6 +28,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <br>
     
 - **Front-End Development**:
 
@@ -35,13 +36,9 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
 
 - **Softwares and Tools**:
 
@@ -63,14 +60,13 @@
 <a href="https://github.com/PedroCampodonico">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroCampodonico&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCampodonico&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="PedroCampodonico"/>
-
 </a>
+
 </div>
 
 -----
 
 ## <b> Let's Connect..!</b><img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/handshake.gif?raw=true" width ="80">
-<br>
 <div align='left'>
 
 <ul>
@@ -81,21 +77,15 @@
 </a>
 </li>
 
-<br>
-
 <li>
 <a href="mailto:pedrocampodonico12@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  PedroCampodonico-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
 </ul>
 </div>
-
 <img src="https://github.com/PedroCampodonico/PedroCampodonico/blob/main/Readme-github/line.gif?raw=true">
-
 <div align='center'>
-
 </div>
 
 ---
